@@ -10,7 +10,7 @@ Follow the instructions below to complete the list of tasks:
 
 5. You may create plots for exploring the training datasets e.g. the proportion of male and female passengers, or to investigate if a specific gender survived more than the other.
 
-6. Write a brief description of which machine learning model you chose and why? Did your model performed up to your expectation on unseen data?
+6. Write a brief description of which machine learning model you chose and why? Did your model perform up to your expectation on unseen data?
 
 7. When you are done, upload your code to a github repo and email the link to imran[dot]cs[dot]uob[at]gmail[dot]com.
 
